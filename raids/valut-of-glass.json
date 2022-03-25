@@ -1,0 +1,62 @@
+{
+  "title": "Vault of Glass",
+  "manual": [
+    {
+      "title": "The Spire",
+      "goal": "Postavte Věž a otevřete dveře.",
+      "items": [
+        {
+          "type": "p",
+          "value": " tým se zrodí v rozvalinách. Tři Plate Vex Sync jsou umístěny vlevo, uprostřed (před vchodem) a vpravo od tohoto místa. Všechny tři platy musí být aktivovány, aby se Spire dostal doprostřed zóny. Pokud se některé platy znovu ztratí (zčervenají), Spire se rozpadne."
+        },
+        {
+          "type": "p",
+          "value": "Rozdělte se do tří týmů po dvou, které budou aktivovat a bránit každý plate . Postavte se na plate, abyste jej aktivovali, a pak můžete vystoupit. Vlny Vexu se zrodí při pokusu vzít Sync Plate. Nicméně, pouze Minotauři mohou plate  deaktivovat. K reaktivaci stačí zabít Vexe a stát znovu uvnitř kruhu."
+        },
+        {
+          "type": "p",
+          "value": "Tři kyklopové, kteří stále žijí, mohou velmi potrápit. Pokuste se je sundat mezi vlnami Vexu, jak budete mít čas. Jinak je kolem každého plate kryt, který lze použít (nezapomeňte - jakmile je deska aktivována, můžete z ní vystoupit)."
+        },
+        {
+          "type": "img",
+          "value": "/raids/valut-of-glass/vog_maps_waking-ruins_1.png"
+        },
+        {
+          "type": "p",
+          "value": "Jakmile bude Spire plně vystavěný, vyšle paprsek světla do velkých dveří Vexu za prostředním platem. Pokračujte jeskyní a dolů po malé skákačce..."
+        },
+        {
+          "type": "p",
+          "value": "Nezapomeňte na truhlu hned za dveřmi, než půjdete dolů do The Trial of Kabr. Další tajná truhla je umístěna na \"tajné stezce\" pod vchodem vedoucím od The Trial of Kabr k zónám Templar's Well. Uděláte pár lehkých plošin po zelené a vinné stezce, dokud nedojdete k truhle."
+        }
+      ]
+    },
+    {
+      "title": "Confluxes",
+      "goal": "Braňte conflux.",
+      "items": [
+        {
+          "type": "p",
+          "value": "Templář se zrodí - se šťítem - na opačném konci arény. Bude vydávat sténavé zvuky a bude se chovat jako protivná neporazitelná věž pro další dva encountery, než jej budete moci konečně zničit."
+        },
+        {
+          "type": "h",
+          "value": "První conflux"
+        },
+        {
+          "type": "p",
+          "value": "Uvidíte conflux přímo pod místem, kde se spustíte dolů (naproti Templáři). Budete bránit conflux před vlnami Vexů, které se mu snaží obětovat. Pozor na Fanatiky! VoG Fanatici vypustí sliz, který vás otráví debuffem \"Marked for Negation\". Pokud si během toho než templář dokončí \"Ritual of Negation\", nevyčistíte debuff, zemřete. Svůj debuff si očistěte procházkou zářícím bazénem pod Templářem."
+        },
+        {
+          "type": "img",
+          "value": "/raids/valut-of-glass/vog-maps_templars-well-conflux-1.png"
+        },
+        {
+          "type": "p",
+          "value": "Jakmile bude Conflux nějakou dobu bráněn, zmizí. Ve spodním rohu obrazovky uvidíte vzkaz \"The Templar summons its legions\". Velká vlna Fanatiků a dalších nepřátel začne zaplavovat arénu. Můžete buď bojovat, nebo se schovat na vyvýšeném místě, dokud nezemřou."
+        }
+
+      ]
+    }
+  ]
+}
