@@ -1,0 +1,49 @@
+{
+  "perks": [
+    {
+      "name": "Exotický quest na zbraň",
+      "owner": true,
+      "free": false
+    },
+    {
+      "name": "Okamžitý přístup k Exotickýmu Machine Gun",
+      "owner": true,
+      "free": false
+    },
+    {
+      "name": "Sezóní odměny",
+      "owner": "Všechny odměny",
+      "free": "Odměny zdarma"
+    },
+    {
+      "name": "Sezóní vybavení a armor",
+      "owner": true,
+      "free": "Pouze vybrané vybavení a armor"
+    },
+    {
+      "name": "Sezóní challenge",
+      "owner": true,
+      "free": "Pouze některé"
+    },
+    {
+      "name": "PsiOps Battlegrounds",
+      "owner": true,
+      "free": "Jedenkrát na zkoušku"
+    },
+    {
+      "name": "Sezóní Artefakt a Módy",
+      "owner": true,
+      "free": true
+    },
+    {
+      "name": "Void 3.0 Subclass",
+      "owner": true,
+      "free": true
+    },
+    {
+      "name": "Event: Guardian Games",
+      "owner": true,
+      "free": true
+    }
+  ]
+}
