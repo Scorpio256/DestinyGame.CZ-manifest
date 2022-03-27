@@ -1,4 +1,18 @@
 {
   "title": "Deep Stone Crypt",
-  "milestoneHash": 541780856
+  "milestoneHash": 541780856,
+  "challenges": [
+    {
+      "modifierHash": 359913212
+    },
+    {
+      "modifierHash": 3862612000
+    },
+    {
+      "modifierHash": 317091889
+    },
+    {
+      "modifierHash": 3085242852
+    }
+  ]
 }

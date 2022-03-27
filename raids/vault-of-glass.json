@@ -59,5 +59,22 @@
 
       ]
     }
+  ],
+  "challenges": [
+    {
+      "modifierHash": 2294431565
+    },
+    {
+      "modifierHash": 3184575275
+    },
+    {
+      "modifierHash": 4066633390
+    },
+    {
+      "modifierHash": 2346112555
+    },
+    {
+      "modifierHash": 285190289
+    }
   ]
 }

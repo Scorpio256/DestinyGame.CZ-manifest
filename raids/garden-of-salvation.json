@@ -1,4 +1,18 @@
 {
   "title": "Garden of Salvation",
-  "milestoneHash": 2712317338
+  "milestoneHash": 2712317338,
+  "challenges": [
+    {
+      "modifierHash": 1601814023
+    },
+    {
+      "modifierHash": 3379073780
+    },
+    {
+      "modifierHash": 3196481573
+    },
+    {
+      "modifierHash": 3745233809
+    }
+  ]
 }
