@@ -3,17 +3,21 @@
   "lastUpdate": "2022-03-27T23:30:37+02:00",
   "lore": [
     {
+      "type": "p",
+      "value": "Season of the Risen je šestnáctá sezóna Destiny 2 a začala 22. února 2022 spolu s vydáním The Witch Queen. Představuje Vanguarda a císařovnu Caiatl, kteří spolupracují v boji proti šíření lucentního potomstva Witch Queen Savathûn."
+    },
+    {
       "type": "title",
       "value": "Stručný příběh sezony"
     },
     {
       "type": "p",
       "value": "Witch Queen ukradla světlo. Její armáda Hivů se řítí přes bitevní pole, škrábe vaše brnění, do doby než podlehne síle vašeho týmu. Ghosti vašich poražených nepřátel se tiše vznášejí, zlověstná předzvěst bitvy bez konce. Během chvilky příliš krátké na to, abyste popadli dech, horda před vámi znovu povstane a zaútočí.<br><br>Připravte se Guardiani."
-    },{
+    },
+    {
       "type": "p",
       "value": "Vyzbrojeni technologií potlačující světlo, kterou nám propůjčila císařovna Caiatl, se postavíme rostoucí armádě Witch Queen. A tváří v tvář nepředstavitelné přesile zvítězíme. I když Lucentský rod povstane, Guardiani nikdy nepadnou."
     }
-
   ],
   "trailer": [
     {
