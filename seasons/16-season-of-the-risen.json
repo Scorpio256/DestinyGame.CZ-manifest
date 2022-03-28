@@ -74,8 +74,32 @@
   ],
   "weapons": [
     {
+      "type": "img",
+      "value": "/seasons/16-season-of-the-risen/legendary-weapons.jpg"
+    },
+    {
       "type": "weapon",
       "value": "4096943616"
+    },
+    {
+      "type": "weapon",
+      "value": "1058494657"
+    },
+    {
+      "type": "weapon",
+      "value": "232928045"
+    },
+    {
+      "type": "weapon",
+      "value": "1248372789"
+    },
+    {
+      "type": "weapon",
+      "value": "2354821643"
+    },
+    {
+      "type": "weapon",
+      "value": "2097055732"
     }
   ]
 }
