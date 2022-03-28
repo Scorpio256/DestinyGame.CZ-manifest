@@ -71,5 +71,11 @@
       "owner": true,
       "free": true
     }
+  ],
+  "weapons": [
+    {
+      "type": "weapon",
+      "value": "4096943616"
+    }
   ]
 }
