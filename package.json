@@ -1,0 +1,19 @@
+{
+  "name": "destinygame-manifest",
+  "version": "1.0.0",
+  "description": "Manifest pro DestinyGame.CZ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scorpio256/DestinyGame.CZ-manifest.git"
+  },
+  "author": "Scorpio256",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scorpio256/DestinyGame.CZ-manifest/issues"
+  },
+  "homepage": "https://github.com/Scorpio256/DestinyGame.CZ-manifest#readme"
+}
