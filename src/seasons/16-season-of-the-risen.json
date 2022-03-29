@@ -79,27 +79,33 @@
     },
     {
       "type": "weapon",
-      "value": "4096943616"
+      "value": "4096943616",
+      "data": {}
     },
     {
       "type": "weapon",
-      "value": "1572896086"
+      "value": "1572896086",
+      "data": {}
     },
     {
       "type": "weapon",
-      "value": "232928045"
+      "value": "232928045",
+      "data": {}
     },
     {
       "type": "weapon",
-      "value": "1248372789"
+      "value": "1248372789",
+      "data": {}
     },
     {
       "type": "weapon",
-      "value": "4067556514"
+      "value": "4067556514",
+      "data": {}
     },
     {
       "type": "weapon",
-      "value": "2097055732"
+      "value": "2097055732",
+      "data": {}
     }
   ]
 }
