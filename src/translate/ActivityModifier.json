@@ -1,0 +1,23 @@
+{
+  "3425521520": {
+    "displayProperties": {
+      "name": "Base Information",
+      "description": "Během encounteru s Caretakerem může Guardian v jeden okamžik sebrat pouze jeden glyph.",
+      "final": false
+    }
+  },
+  "274420331": {
+    "displayProperties": {
+      "name": "The Only Oracle For You",
+      "description": "Během encounteru s Oracles nesmí Guardian jeden oracle zničit vícekrát. Rotujte pozice.",
+      "final": false
+    }
+  },
+  "191124900": {
+    "displayProperties": {
+      "name": "The Core Four",
+      "description": "Během posledního encounteru, před každou fází poškození, rozbijte všechny čtyři trysky Tanikse a doručte všechny 4 bomby.",
+      "final": false
+    }
+  }
+}
