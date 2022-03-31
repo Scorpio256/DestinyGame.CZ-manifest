@@ -3,21 +3,154 @@
     "displayProperties": {
       "name": "Base Information",
       "description": "Během encounteru s Caretakerem může Guardian v jeden okamžik sebrat pouze jeden glyph.",
-      "final": false
+      "final": true
     }
   },
   "274420331": {
     "displayProperties": {
       "name": "The Only Oracle For You",
       "description": "Během encounteru s Oracles nesmí Guardian jeden oracle zničit vícekrát. Rotujte pozice.",
-      "final": false
+      "final": true
     }
   },
   "191124900": {
     "displayProperties": {
       "name": "The Core Four",
       "description": "Během posledního encounteru, před každou fází poškození, rozbijte všechny čtyři trysky Tanikse a doručte všechny 4 bomby.",
-      "final": false
+      "final": true
+    }
+  },
+  "2208550513": {
+    "displayProperties": {
+      "name": "Empath",
+      "description": "Zdokonalený radar. Při boji na blízko obdržíte větší poškození.",
+      "final": true
+    }
+  },
+  "1691458972": {
+    "displayProperties": {
+      "name": "Acute Void Burn",
+      "description": "O 25% větší poškození Voidem dáváte, o 50% větší poškození Arcem získáte.",
+      "final": true
+    }
+  },
+  "3307318061": {
+    "displayProperties": {
+      "name": "Champion Foes",
+      "description": "Budete čelit [Disruption] Overload a [Stagger] Unstoppable Championy. Abyste je porazili, musíte si do zbroje vybavit mody Anti-Overload a Anti-Unstoppable. Tyto mody pocházejí ze sezónního artefaktu.",
+      "final": true
+    }
+  },
+  "40182179": {
+    "displayProperties": {
+      "name": "Champion Foes",
+      "description": "Budete čelit [Disruption] Overload a [Stagger] Unstoppable Championy.",
+      "final": true
+    }
+  },
+  "2060034565": {
+    "displayProperties": {
+      "name": "Hero Modifiers",
+      "description": "Silnější štíty.",
+      "final": true
+    }
+  },
+  "2785286863": {
+    "displayProperties": {
+      "name": "Poleharm",
+      "description": "Útoky zbraní na blízko způsobíte větší poškození, ale utrpíte větší poškození od nepřátel, kteří jsou daleko.",
+      "final": true
+    }
+  },
+  "1598842522": {
+    "displayProperties": {
+      "name": "Equipment Locked",
+      "description": "Po zahájení této aktivity nebudete moci své vybavení vyměnit.",
+      "final": true
+    }
+  },
+  "2751349583": {
+    "displayProperties": {
+      "name": "Match Game",
+      "description": "Nepřátelské štíty jsou vysoce odolné vůči všem ostatním elementárním poškozením.",
+      "final": true
+    }
+  },
+  "2421815503": {
+    "displayProperties": {
+      "name": "Legend Modifiers",
+      "description": "Uzamčené vybavení a štíty odolné ostatním elementárním poškozením.",
+      "final": true
+    }
+  },
+  "1651706850": {
+    "displayProperties": {
+      "name": "Shielded Foes",
+      "description": "Budete čelit nepřátelům se štíty [Arc] Arc, [Solar] Solar, and [Void] Void.",
+      "final": true
+    }
+  },
+  "2288210988": {
+    "displayProperties": {
+      "name": "Shielded Foes",
+      "description": "[Arc] Arc, [Solar] Solar a [Void] Void štíty",
+      "final": true
+    }
+  },
+  "3346897368": {
+    "displayProperties": {
+      "name": "Attrition",
+      "description": "Regenerace je značně narušena. Poražení nepřátel může vytvořit Wells of Light.",
+      "final": true
+    }
+  },
+  "3788294071": {
+    "displayProperties": {
+      "name": "Master Modifiers",
+      "description": "Championi, uzamčené vybavení a štíty odolné ostatním elementárním poškozením.",
+      "final": true
+    }
+  },
+  "97112028": {
+    "displayProperties": {
+      "name": "Champions: Mob",
+      "description": "Tento mód obsahuje více championů.",
+      "final": true
+    }
+  },
+  "703904464": {
+    "displayProperties": {
+      "name": "Scorched Earth",
+      "description": "Nepřátelé házejí granáty výrazně častěji.",
+      "final": true
+    }
+  },
+  "518117495": {
+    "displayProperties": {
+      "name": "Grandmaster Modifiers",
+      "description": "Omezené množství oživení, po zahájení se nedá připojit, championi, uzamčené vybavení a štíty odolné ostatním elementárním poškozením.",
+      "final": true
+    }
+  },
+  "3286396144": {
+    "displayProperties": {
+      "name": "Grandmaster Modifiers",
+      "description": "Po zahájení se nedá připojit, championi, uzamčené vybavení a štíty odolné ostatním elementárním poškozením.",
+      "final": true
+    }
+  },
+  "4265630562": {
+    "displayProperties": {
+      "name": "Extinguish",
+      "description": "Pokud všichni z týmu padnou, vrátíte se na orbit.",
+      "final": true
+    }
+  },
+  "4239965093": {
+    "displayProperties": {
+      "name": "Limited Revives",
+      "description": "Omezené množství oživení. Další získáte porážením championů.",
+      "final": true
     }
   }
 }
