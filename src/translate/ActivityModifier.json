@@ -152,5 +152,12 @@
       "description": "Omezené množství oživení. Další získáte porážením championů.",
       "final": true
     }
+  },
+  "2672226122": {
+    "displayProperties": {
+      "name": "Swift Destruction",
+      "description": "Během prvního encounteru zabijte všechny Championy současně.",
+      "final": true
+    }
   }
 }
