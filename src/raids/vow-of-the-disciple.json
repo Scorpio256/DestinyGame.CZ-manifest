@@ -6,25 +6,19 @@
   ],
   "challenges": [
     {
-      "modifierHash": 3374971632,
+      "modifierHash": 2672226122,
       "video_manual": [
         "HYOzp_XoNa8"
-      ],
-      "manual": [
-        {
-          "type": "p",
-          "value": "Zabít všechny championy současně."
-        }
       ]
     },
     {
-      "modifierHash": 2009562460
+      "modifierHash": 3425521520
     },
     {
-      "modifierHash": 3434393250
+      "modifierHash": 2255984700
     },
     {
-      "modifierHash": 1988156672
+      "modifierHash": 2098788044
     }
   ]
 }
