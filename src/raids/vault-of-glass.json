@@ -187,40 +187,6 @@
       ]
     },
     {
-      "title": "Gatekeepers",
-      "goal": "Probuď Glass Throne",
-      "items": [
-        {
-          "type": "p",
-          "value": "Champions: Overload Minotaurs"
-        },
-        {
-          "type": "p",
-          "value": "Po zbytek raidu budete v této aréně. Vlevo a vpravo uvidíte dva portály s Vex platy. Před sebou uvidíte Gatekeepera. Abychom \"probudili\" trůn a přivolali Atheona, musíme zničit Gatekeepery (obří Hydru) a bránit Confluxy."
-        },
-        {
-          "type": "p",
-          "value": "Zabijte prostředního Gatekeepera uprostřed a aktivujte platy. Gatekeeper upustí Relikvii Aegis. Postavte se na plate a otevřete portál v jeho blízkosti. Levý portál vede do minulé verze arény (někdy se mu kvůli atmosféře říká \"červený\" portál) a pravý portál vede k budoucí verzi (někdy se mu \"zelený\" portál)."
-        },
-        {
-          "type": "p",
-          "value": "Aktivujte platy a pošlete do každého portálu jednu osobu. Jejich úkolem je zabít všechno a bránit Conflux. Každou chvíli se zrodí Wyvern nebo Pretorián. Wyverny se dají zabít s normálním poškozením, ale Pretoriáni mají speciální štít, který může sundat jen Relikvie. Pokud uvidíte pretoriána, zavolejte hráče co má relikvii a řekněte ve kterém portálu jste. Držitel relikvie by měl přijít do portálu, zabít pretoriána a nechat relikvii druhému hráči, aby si ji vyzvedl."
-        },
-        {
-          "type": "p",
-          "value": "Následně ten co jako první byl v areně vezme relikvii a vynese ji ven a původní držitel relikvie zůstává aby bránil conflux. Venku předá relikvii dalšímu hráči a ten ji zanese do druhého portálu kde zničí pretoriána. A toto se bude opakovat dokud nezničíte 6 pretoriánů."
-        },
-        {
-          "type": "p",
-          "value": "Zbývající 3-4 hráči musí zůstat mimo portály, aby zabránili Overload Minotaurs v zajetí platů. Pravidelně se vždy objeví nový  Gatekeeper a zamkne Plate. Je potřeba je okamžitě zabít, aby se znovu otevřeli portály. Pokud obránci confluxů potřebují pomoc, lidé mohou vstoupit, ale při opuštění se portál zablokuje. A dostanou debuff."
-        },
-        {
-          "type": "p",
-          "value": "Po zničení dostatku pretoriánů se objeví zpráva a nový conflux venku uprostřed areny. Vex zaútočí na Conflux ze všech stran. Nejnebezpečnějšími nepřáteli jsou pretoriáni, kteří se rodí z levého a pravého portálu, a Wyverni, kteří pochodují po schodech dolů. Pretoriáni mohou být ponecháni držitelům Relikvií, zatímco zbytek týmu se soustředí na Wyverny a Gobliny. Po ubránění dostanete kořist!"
-        }
-      ]
-    },
-    {
       "title": "Atheon",
       "goal": "Porazit Atheona, Time's Conflux",
       "items": [
