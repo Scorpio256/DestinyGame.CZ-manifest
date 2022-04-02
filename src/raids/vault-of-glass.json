@@ -55,26 +55,241 @@
         {
           "type": "p",
           "value": "Jakmile bude Conflux nějakou dobu bráněn, zmizí. Ve spodním rohu obrazovky uvidíte vzkaz \"The Templar summons its legions\". Velká vlna Fanatiků a dalších nepřátel začne zaplavovat arénu. Můžete buď bojovat, nebo se schovat na vyvýšeném místě, dokud nezemřou."
+        },
+        {
+          "type": "h",
+          "value": "Druhý conflux"
+        },
+        {
+          "type": "p",
+          "value": "Po určité době legie zmizí a objeví se nové confluxy. Rozdělte se do dvou týmů po třech, které budou bránit confluxy, dokud nezmizí."
+        },
+        {
+          "type": "img",
+          "value": "/raids/vault-of-glass/vog-maps_templars-well-conflux-2.png"
+        },
+        {
+          "type": "h",
+          "value": "Třetí conflux"
+        },
+        {
+          "type": "p",
+          "value": "Rozdělte se do tří týmů po dvou, abyste ubránili všechny tři confluxy najednou"
+        },
+        {
+          "type": "img",
+          "value": "/raids/vault-of-glass/vog-maps_templars-well-conflux-3.png"
         }
-
+      ]
+    },
+    {
+      "title": "Oracles",
+      "goal": "Zničit Oracly.",
+      "items": [
+        {
+          "type": "p",
+          "value": "Zde budete dělat pět kol Oraclů. První kolo bude mít tři Oracly a každé další kolo přidá další Oracle, dokud nebude použito všech sedm mís. Každá vlna Oraclů musí být zničena v pořadí, v jakém se zrodí. Když uničíte Oracle mimo pořadí, tým bude zničen."
+        },
+        {
+          "type": "p",
+          "value": "Oracly v D2 jsou mnohem slabší (a modré!) a může je snadno zničit jednotlivec. Dokud se váš tým nedozví, kde se objevují, rozdělte se, abyste pokryli všechna místa. Existuje sedm možných míst kde se objeví, takže každý hráč by měl mít přiřazeno alespoň jeden Oracle."
+        },
+        {
+          "type": "img",
+          "value": "/raids/vault-of-glass/vog_maps_templars-well-oracles.png"
+        },
+        {
+          "type": "p",
+          "value": "Každé kolo bude mít \"ukázku\", kde se požadovaný vzor krátce zahraje dvakrát, než se všechny skutečně zrodí najednou. Pokud během ukázky uvidí přiřazený hráč svůj Oracle, zvolejte, který se objevil. Například, když Mid uvidí svůj Oracle jako první, zavolají \"JEDNA\". Pokud se L3 narodí další, ten, kdo je k L3 přidělen, zavolá \"DVA\" a tak dále. Po dvou předpremiérách, kdy se zrodí všechny Oracly najednou, je zničte v pořadí, které jste spočítali. Ujistěte se, že zavoláte, až bude vaše číslo zničeno! Dole vlevo je zpráva, která naznačuje, kdy je Oracle zničen, ale vždy je užitečné, aby jste byli slyšet v případě, že jsou vaši spoluhráči zaneprázdněni nepřáteli."
+        },
+        {
+          "type": "p",
+          "value": "Pozor na Hobgobliny střílející z plošin po místnosti. Opakujte tento proces po pět kol a dostanete další kořist!"
+        }
+      ]
+    },
+    {
+      "title": "Templář",
+      "goal": "Porazit Templáře.",
+      "items": [
+        {
+          "type": "p",
+          "value": "Relikvie Aegis se objeví uprostřed jámy. Její vyzvednutí zplodí Templáře. Bohužel má stále štét. Aby se štítu zbavil, musí Držitel Relikvie zastřelit Templáře se superkou Relikvie."
+        },
+        {
+          "type": "p",
+          "value": "Relic Holder: Můžete mlátit, bouchat a ničit pomocí svých tlačítek melee a střelby/pravé spoušti. Vaše granátové tlačítko (nebo L2/LT na konzoli) je přenosný štít, který blokuje veškeré poškození. Váše superka je projektilový výbuch. Jak superka, tak granátové schopnosti potřebují čas na dobití. Vaším hlavním cílem pro tuto sekci je sejmout Templářův štít pro DPS, ale svému týmu můžete pomoci zničením Oraclů, Harpyjí a dalších obtížných nepřátel."
+        },
+        {
+          "type": "p",
+          "value": "Oracly se budou během této části objevovat ve skupinách po třech. Stejně jako předtím musí být zabiti v pořadí, v jakém se rodí. Jakmile jsou zničeny, je typicky nejlepší se seskupit na DPS. Až Relikviář sundá templářův štít, jeden z vašeho týmu bude chycen do červené zadržovací bubliny. Pokud budete zadrženi, nebudete moci střílet. Vaši musí bublinu rozstřelit. Jakmile prolomíte zadržovací pole, DPS!! Templářovým kritickým místem je jeho velké červené oko."
+        },
+        {
+          "type": "p",
+          "value": "Během DPS se templář pokusí teleportovat na nové místo v aréně. Na nové místo ukazuje velký červený kruh a jasný paprsek světla vystřelující k obloze. Pokud stojíte v tomto kruhu, můžete zablokovat teleport a získat více času DPS. Templář se bude snažit teleportovat na různá místa, dokud neuspěje, nebo ho nezničíte. Pokud se templáři podaří teleportovat, dostane zpět svůj štít."
+        },
+        {
+          "type": "p",
+          "value": "Obtížnější nepřátelé se zrodí, pokud bude fáze DPS dlouhá."
+        }
+      ]
+    },
+    {
+      "title": "Labyrint",
+      "goal": "Dosáhnout východu bez objevení",
+      "items": [
+        {
+          "type": "p",
+          "value": "Nyní se musíte propracovat bludištěm plným Gorgonů (velkých zářících Harpyjí s chapadly). Východ uvidíte vyznačený na mapě. Postupujte pomalu a jako skupina - když vás zahlédne Gorgon, bude kvílet, vaše obrazovka zčervená a celý váš tým se zemře. Nebuď \"ten Guardian\", kterého chytí..."
+        },
+        {
+          "type": "p",
+          "value": "V Labyrintu jsou tři vznášející se kostky jako ty v Garden of Salvation. Budete muset zničit všechny tři, abyste otevřeli sály s trhuly. Jakmile to uděláte, sály zůstanou otevřené i když všichni zemřou."
+        },
+        {
+          "type": "img",
+          "value": "/raids/vault-of-glass/vog_maps_gorgons_labyrinth.png"
+        }
+      ]
+    },
+    {
+      "title": "Gatekeepers",
+      "goal": "Probuď Glass Throne",
+      "items": [
+        {
+          "type": "p",
+          "value": "Champions: Overload Minotaurs"
+        },
+        {
+          "type": "p",
+          "value": "Po zbytek raidu budete v této aréně. Vlevo a vpravo uvidíte dva portály s Vex platy. Před sebou uvidíte Gatekeepera. Abychom \"probudili\" trůn a přivolali Atheona, musíme zničit Gatekeepery (obří Hydru) a bránit Confluxy."
+        },
+        {
+          "type": "p",
+          "value": "Zabijte prostředního Gatekeepera uprostřed a aktivujte platy. Gatekeeper upustí Relikvii Aegis. Postavte se na plate a otevřete portál v jeho blízkosti. Levý portál vede do minulé verze arény (někdy se mu kvůli atmosféře říká \"červený\" portál) a pravý portál vede k budoucí verzi (někdy se mu \"zelený\" portál)."
+        },
+        {
+          "type": "p",
+          "value": "Aktivujte platy a pošlete do každého portálu jednu osobu. Jejich úkolem je zabít všechno a bránit Conflux. Každou chvíli se zrodí Wyvern nebo Pretorián. Wyverny se dají zabít s normálním poškozením, ale Pretoriáni mají speciální štít, který může sundat jen Relikvie. Pokud uvidíte pretoriána, zavolejte hráče co má relikvii a řekněte ve kterém portálu jste. Držitel relikvie by měl přijít do portálu, zabít pretoriána a nechat relikvii druhému hráči, aby si ji vyzvedl."
+        },
+        {
+          "type": "p",
+          "value": "Následně ten co jako první byl v areně vezme relikvii a vynese ji ven a původní držitel relikvie zůstává aby bránil conflux. Venku předá relikvii dalšímu hráči a ten ji zanese do druhého portálu kde zničí pretoriána. A toto se bude opakovat dokud nezničíte 6 pretoriánů."
+        },
+        {
+          "type": "p",
+          "value": "Zbývající 3-4 hráči musí zůstat mimo portály, aby zabránili Overload Minotaurs v zajetí platů. Pravidelně se vždy objeví nový  Gatekeeper a zamkne Plate. Je potřeba je okamžitě zabít, aby se znovu otevřeli portály. Pokud obránci confluxů potřebují pomoc, lidé mohou vstoupit, ale při opuštění se portál zablokuje. A dostanou debuff."
+        },
+        {
+          "type": "p",
+          "value": "Po zničení dostatku pretoriánů se objeví zpráva a nový conflux venku uprostřed areny. Vex zaútočí na Conflux ze všech stran. Nejnebezpečnějšími nepřáteli jsou pretoriáni, kteří se rodí z levého a pravého portálu, a Wyverni, kteří pochodují po schodech dolů. Pretoriáni mohou být ponecháni držitelům Relikvií, zatímco zbytek týmu se soustředí na Wyverny a Gobliny. Po ubránění dostanete kořist!"
+        }
+      ]
+    },
+    {
+      "title": "Gatekeepers",
+      "goal": "Probuď Glass Throne",
+      "items": [
+        {
+          "type": "p",
+          "value": "Champions: Overload Minotaurs"
+        },
+        {
+          "type": "p",
+          "value": "Po zbytek raidu budete v této aréně. Vlevo a vpravo uvidíte dva portály s Vex platy. Před sebou uvidíte Gatekeepera. Abychom \"probudili\" trůn a přivolali Atheona, musíme zničit Gatekeepery (obří Hydru) a bránit Confluxy."
+        },
+        {
+          "type": "p",
+          "value": "Zabijte prostředního Gatekeepera uprostřed a aktivujte platy. Gatekeeper upustí Relikvii Aegis. Postavte se na plate a otevřete portál v jeho blízkosti. Levý portál vede do minulé verze arény (někdy se mu kvůli atmosféře říká \"červený\" portál) a pravý portál vede k budoucí verzi (někdy se mu \"zelený\" portál)."
+        },
+        {
+          "type": "p",
+          "value": "Aktivujte platy a pošlete do každého portálu jednu osobu. Jejich úkolem je zabít všechno a bránit Conflux. Každou chvíli se zrodí Wyvern nebo Pretorián. Wyverny se dají zabít s normálním poškozením, ale Pretoriáni mají speciální štít, který může sundat jen Relikvie. Pokud uvidíte pretoriána, zavolejte hráče co má relikvii a řekněte ve kterém portálu jste. Držitel relikvie by měl přijít do portálu, zabít pretoriána a nechat relikvii druhému hráči, aby si ji vyzvedl."
+        },
+        {
+          "type": "p",
+          "value": "Následně ten co jako první byl v areně vezme relikvii a vynese ji ven a původní držitel relikvie zůstává aby bránil conflux. Venku předá relikvii dalšímu hráči a ten ji zanese do druhého portálu kde zničí pretoriána. A toto se bude opakovat dokud nezničíte 6 pretoriánů."
+        },
+        {
+          "type": "p",
+          "value": "Zbývající 3-4 hráči musí zůstat mimo portály, aby zabránili Overload Minotaurs v zajetí platů. Pravidelně se vždy objeví nový  Gatekeeper a zamkne Plate. Je potřeba je okamžitě zabít, aby se znovu otevřeli portály. Pokud obránci confluxů potřebují pomoc, lidé mohou vstoupit, ale při opuštění se portál zablokuje. A dostanou debuff."
+        },
+        {
+          "type": "p",
+          "value": "Po zničení dostatku pretoriánů se objeví zpráva a nový conflux venku uprostřed areny. Vex zaútočí na Conflux ze všech stran. Nejnebezpečnějšími nepřáteli jsou pretoriáni, kteří se rodí z levého a pravého portálu, a Wyverni, kteří pochodují po schodech dolů. Pretoriáni mohou být ponecháni držitelům Relikvií, zatímco zbytek týmu se soustředí na Wyverny a Gobliny. Po ubránění dostanete kořist!"
+        }
+      ]
+    },
+    {
+      "title": "Atheon",
+      "goal": "Porazit Atheona, Time's Conflux",
+      "items": [
+        {
+          "type": "img",
+          "value": "/raids/vault-of-glass/vog_maps_atheon-ocarles.png"
+        },
+        {
+          "type": "p",
+          "value": "Atheon se zrodí pod skleněným obloukem na severní straně místnosti. Teď se neobtěžuj útočit na Atheona. Váš tým by se měl držet za římsou obou portálů, aby se vyhnul bossově palbě. Po určité době Atheon náhodně vyšle tři Guardiany buď do levého/minulosti/červeného nebo pravého/budoucnosti/zeleného portálu."
+        },
+        {
+          "type": "h",
+          "value": "Tým v aréně:"
+        },
+        {
+          "type": "p",
+          "value": "Poté, co Atheon pošle polovinu týmu do portálu, zbývající tři počkají, až zavolají, na který portál byli posláni. Pak se všichni přesunou k danému plate pro portál a otevřou ho. Jeden bude hlásit pořadí tří Oraclů které se objeví. Atheon během toho vyvolá vlnu vybuchujících Supplicant Harpií, kterou musíte odrazit. Buďte opatrní - exploze vás může okamžitě zabít! Až Tým portálu zabije vlnu Oráculů, objeví se druhá vlna, kde opět musíte řici pořadí. Nakonec se objeví třetí a poslední vlna."
+        },
+        {
+          "type": "p",
+          "value": "Tip: Udržujte jednu z laserových harpií na obloze živou na každé straně a zabráníte respawnu celé skupiny."
+        },
+        {
+          "type": "p",
+          "value": "Tip č. 2: Jakmile otevřete portál, můžete z platu slézt. Tohle může pomoci, aby vás harpie nezabili."
+        },
+        {
+          "type": "h",
+          "value": "Tým v portálu:"
+        },
+        {
+          "type": "p",
+          "value": "Vaším cílem je vrátit Relicu do současnosti a získat buff pro DPS celého týmu. Tři z vás se zrodí na vrcholu schodiště vedle Relikvie. Také budete okamžitě označeni \"Marked by the Void\" a začnete oslepovat. Ať někdo vyzvedne Relikvii a zavolá, na který portál jste se teleportovali. Mezitím co se bude nabijet čistící schopnost reliky její držitel by měl sejít ze schodů a zlikvidovat Vexy. Zbývající dva Strážci by měli začít střílet po Oraclech v pořadí, v jakém jim je tým v aréně řekne. Nezapomeňte své spoluhráče co nejdříve očistit. Pak příjde druhá vlna Vexů kde bude i pretorián, kterého může být zničen pouze Relikvií. To se opakuje dokud nezničíte dohromady 9 Oraclů. Pak se před průchodem naposledy očistíte než se vrátíte do současnosti."
+        },
+        {
+          "type": "h",
+          "value": "Fáze DPS:"
+        },
+        {
+          "type": "p",
+          "value": "Jakmile tým v portalu dokončí třetí vlnu Oraclů, váš tým dostane \"Time's Vengeance\" buff, který dramaticky zmírní vaše poškození a schopnosti regen pro DPS. Klasické místo na DPS je na plovoucí plošině uprostřed místnosti. Nyní na Athena hoďte vše co máte! Well of Radiance se rozhodně doporučuje pro stání na prostřední plošině. Některé týmy umístí Titánskou bublinu na zadní stranu plovoucí plošiny, aby do ní Guardiani mohli namočit."
+        },
+        {
+          "type": "p",
+          "value": "Během DPS obdrží jeden hráč na obrazovce pětisekundové upozornění na debuff Detainment. Zvukový efekt Detainment se přehraje, když je debuff dostane a hráč bude pro ostatní bíle zářit, aby to všichni ostatní viděli. Až časovač dosáhne nuly, tento hráč a všichni v jeho blízkosti budou vtažení do bubliny. Dobrá taktika je nechat tohoto člověka ohlásit a oddělit se od hlavní skupiny. Jinak bude celý tým chycen a zlikvidován. Přiřaďte někoho, kdo vám pomůže vystřelit hráče ven z bubliny nebo ať držitel Relicu použije jeden uder do země na zničení."
+        },
+        {
+          "type": "p",
+          "value": "Až Time's Vengeance skončí, tak si vše znovu zopakujte dokud Athen nepadne na kolena."
+        }
       ]
     }
   ],
   "challenges": [
     {
-      "modifierHash": 2294431565
+      "modifierHash": 1572570117
     },
     {
-      "modifierHash": 3184575275
+      "modifierHash": 274420331
     },
     {
-      "modifierHash": 4066633390
+      "modifierHash": 2814846409
     },
     {
-      "modifierHash": 2346112555
+      "modifierHash": 3212721586
     },
     {
-      "modifierHash": 285190289
+      "modifierHash":1572570117
     }
   ]
 }

@@ -6,13 +6,6 @@
       "final": true
     }
   },
-  "274420331": {
-    "displayProperties": {
-      "name": "The Only Oracle For You",
-      "description": "Během encounteru s Oracles nesmí Guardian jeden oracle zničit vícekrát. Rotujte pozice.",
-      "final": true
-    }
-  },
   "191124900": {
     "displayProperties": {
       "name": "The Core Four",
@@ -157,6 +150,41 @@
     "displayProperties": {
       "name": "Swift Destruction",
       "description": "Během prvního encounteru zabijte všechny Championy současně.",
+      "final": true
+    }
+  },
+  "1572570117": {
+    "displayProperties": {
+      "name": "Wait for It...",
+      "description": "Během prvního encounteru Wyverny zabijte, až začnou obětní animaci v confluxu.",
+      "final": true
+    }
+  },
+  "274420331": {
+    "displayProperties": {
+      "name": "The Only Oracle For You",
+      "description": "Během encounteru s Oracles nesmí Guardian jeden oracle zničit vícekrát. Rotujte pozice.",
+      "final": true
+    }
+  },
+  "2814846409": {
+    "displayProperties": {
+      "name": "Out of Its Way",
+      "description": "Během encounteru s Templářem musí Relic holder neustále blokovat Templáře před jeho teleportem.",
+      "final": true
+    }
+  },
+  "3212721586": {
+    "displayProperties": {
+      "name": "Strangers in Time",
+      "description": "Během encounteru s Gatekeeperem musí Guardiani porazit Wyvernu a Pretoriána současně.",
+      "final": true
+    }
+  },
+  "1572570117": {
+    "displayProperties": {
+      "name": "Ensemble's Refrain",
+      "description": "Během encounteru s Atheonem,Každý teleportovaný hráč smí zničit jen jeden ze tří spawnutých oraclů.",
       "final": true
     }
   }
