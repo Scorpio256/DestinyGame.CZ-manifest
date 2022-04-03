@@ -13,12 +13,12 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
       - name: Vygenerovat version.json
-        run: echo SECRET=version$(date +%s) >> $GITHUB_ENV
+        run: echo SECRET=$(date +%s) >> $GITHUB_ENV
       - name: ➕ Create version file
         uses: "finnp/create-file-action@master"
         env:
           FILE_NAME: "./src/version.json"
-          FILE_DATA: "{\"verision\":\"${{env.SECRET}}\"}"
+          FILE_DATA: "{\"version\":\"${{env.SECRET}}\"}"
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
