@@ -1,0 +1,33 @@
+name: Deployment MAIN
+
+on:
+  push:
+    branches: [ main ]
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: master
+    steps:
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v2
+      - name: Vygenerovat Secret pro DB import
+        run: echo SECRET=version$(date +%s) >> $GITHUB_ENV
+      - name: ➕ Create version file
+        uses: "finnp/create-file-action@master"
+        env:
+          FILE_NAME: "version.json"
+          FILE_DATA: "{\"verision\":\"${{env.SECRET}}\"}"
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ${{ secrets.PROD_DEPLOYMENT_PATH }}
+          local-dir: ./dist/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
