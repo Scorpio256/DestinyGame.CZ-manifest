@@ -1,6 +1,6 @@
 {
   "title": "The Witch Queen",
-  "hash": 1888320892,
+  "activityHash": 1292955609,
   "about": [
     {
       "p": "Witch Queen představuje zbrusu novou lokaci, Savathûn's Throne World, vznášející se nad Marsem uvnitř Ascendent Realmu. Kromě nových aktivit byl 5. března 2022 vydán také nový raid „Vow of the Disciple“. V průběhu 5. roku budou také přidány dva další dungeony. Nová příběhový quest byl rozšířen o novou obtížnost „Legendary“, navrženou tak, aby byla náročná nejen pro jednoho hráče, za to však s vylepšenými odměnami za dokončení. Ve stejnou dobu se do Destiny Content Vault dostal nějaký obsah z rozšíření Forsaken (2018) to zahrnovalo celou kampaň Forsaken, destinaci Tangled Shore a její aktivity, ale ne Dreaming City, Raid Last Wish, dungeon Shattered Throne nebo Strike mise na Dreaming City. Než se tak stalo byla kampaň Forsaken 7. prosince 2021 zpřístupněna všem hráčům zdarma, nyní s balíčkem Forsaken získáte přístup k end game aktivitám. Zatímco většina sezónních aktivit z Beyond Light (2020) byly odstraněny s The Witch Queen, aktivita Battlegrounds z Season of the Chosen (Sezóna 13) byla sloučena se stávajícími Striky pod jeden playlist s názvem Vanguard Operations."
@@ -38,23 +38,19 @@
   "activities": [
     {
       "type": "raid",
-      "hash": 1925223180,
-      "hashType": "Milestone"
+      "milestoneHash": 1925223180
     },
     {
       "type": "wellspring",
-      "hash": 1607791277,
-      "hashType": "Milestone"
+      "milestoneHash": 1607791277
     },
     {
       "type": "strike",
-      "hash": 1346366017,
-      "hashType": "Activity"
+      "activityHash": 1346366017
     },
     {
       "type": "strike",
-      "hash": 4025464880,
-      "hashType": "Activity"
+      "activityHash": 4025464880
     }
   ]
 }
