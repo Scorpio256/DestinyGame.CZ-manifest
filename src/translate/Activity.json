@@ -12,5 +12,12 @@
       "description": "Zastavte Zeerika, Lightflayera před získáním kontroly nad Wellspringem.",
       "final": false
     }
+  },
+  "201280774":  {
+    "displayProperties": {
+      "name": "The Wellspring",
+      "description": "Zastavte Golmaga, Warden of the Spring před dokončením rituálu ve Wellspringu.",
+      "final": false
+    }
   }
 }
