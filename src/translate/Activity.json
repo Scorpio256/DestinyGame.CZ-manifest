@@ -5,5 +5,12 @@
       "description": "Birthplace of the Vile je druhý Strike z rozšíření The Witch Queen jako také druhý Strike, který se odehrává v Savathûnině Throne Worldu. Fireteam pod vedením Mara Sov, bude prohledává temné město, známé jako Harvest, aby našel specializovaný kryptoglyf a „líheň“ temnoty, aby udrželi Savathûnina červa naživu.",
       "final": false
     }
+  },
+  "3333680772":  {
+    "displayProperties": {
+      "name": "The Wellspring",
+      "description": "Zastavte Zeerika, Lightflayera před získáním kontroly nad Wellspringem.",
+      "final": false
+    }
   }
 }
