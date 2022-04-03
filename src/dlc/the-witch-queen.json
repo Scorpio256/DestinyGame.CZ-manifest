@@ -1,0 +1,60 @@
+{
+  "title": "The Witch Queen",
+  "hash": 1888320892,
+  "about": [
+    {
+      "p": "Witch Queen představuje zbrusu novou lokaci, Savathûn's Throne World, vznášející se nad Marsem uvnitř Ascendent Realmu. Kromě nových aktivit byl 5. března 2022 vydán také nový raid „Vow of the Disciple“. V průběhu 5. roku budou také přidány dva další dungeony. Nová příběhový quest byl rozšířen o novou obtížnost „Legendary“, navrženou tak, aby byla náročná nejen pro jednoho hráče, za to však s vylepšenými odměnami za dokončení. Ve stejnou dobu se do Destiny Content Vault dostal nějaký obsah z rozšíření Forsaken (2018) to zahrnovalo celou kampaň Forsaken, destinaci Tangled Shore a její aktivity, ale ne Dreaming City, Raid Last Wish, dungeon Shattered Throne nebo Strike mise na Dreaming City. Než se tak stalo byla kampaň Forsaken 7. prosince 2021 zpřístupněna všem hráčům zdarma, nyní s balíčkem Forsaken získáte přístup k end game aktivitám. Zatímco většina sezónních aktivit z Beyond Light (2020) byly odstraněny s The Witch Queen, aktivita Battlegrounds z Season of the Chosen (Sezóna 13) byla sloučena se stávajícími Striky pod jeden playlist s názvem Vanguard Operations."
+    },
+    {
+      "p": "Savathûnino lucentní potomstvo, bojovníci Hive, kteří ovládli sílu Světla, jsou novým hlavním nepřítelem v rámci The Witch Queen. Mají podobné schopnosti jako samotní Guardiani zaměřené na světlo ve třídách Arc, Solar a Void a také mají své vlastní Ghosty, kteří je mohou vzkřísit, pokud je Guardian nestihne zničit včas."
+    },
+    {
+      "p": "Beyond Light představil Stasis jako sílu temnoty, která na rozdíl od ostatních tří sil Světla, z nichž každá měla tři podstromy, které bylo možné vybrat, používala přizpůsobitelné aspekty a fragmenty, aby si ji hráč mohl více přizpůsobit. V průběhu The Witch Queen by mělo Bungie podobné aspekty a fragmenty přinést i pro všechny síly Světla, počínaje Void při uvedení The Witch Queen. Tyto změny zachovávají základní schopnosti, ale umožňují hráčům upravovat a míchat efekty těchto schopností. Bungie má v plánu přinést i další síly Temnoty, ale neplánuje je přidat, dokud nedokončí konverzi všech sil Světla během The Witch Queen."
+    },
+    {
+      "p": "DLC představuje nový typ zbraně, glaive, která má jak útoky na dálku a na krátkou vzdálenost a i obranné schopnosti. Na rozdíl od většiny ostatních zbraní, které mají náhodné výhody, mají glaives schopnosti, které si hráč může upravit pomocí nového systému výroby zbraní, který lze použít také k výrobě jiných typů zbraní. V novém systému výroby zbraní hraje roli také nová schopnost Deepsight. Hráči vyrábí zbraně na novém místě zvaném The Enclave, které se nachází na Marsu (dostupné z místa Throne World). Aby mohli hráči vyrobit zbraně, potřebují získat vzory zbraní (patterns) ze světa nebo prostřednictvím herních aktivit nebo úkolů a také najít a používat speciální zbraně „Deepsight Resonance“ k odemykání a získávání craftovacích materiálů. Materiály pro výrobu lze také zakoupit od mistra Rahoola a získat od Banshee-44 po nashromáždění určitého množství „reputace“, která se získává rozebíráním zbraní a armoru. Jakmile je zbraň vytvořena, lze ji dále vylepšovat a upravovat používáním ve hře a odemykat tak nové a vylepšené výhody. Zbraň lze vyrábět a upravovat neomezeně dlouho, pokud jsou získány a odemčeny k použití vzory zbraní, materiály pro výrobu, perky zbraní a další potřebné zdroje. Bungie uvedlo, že pouze počáteční zbraně z The Witch Queen a její sezónní obsah 16. sezóny, včetně některých exotických zbraní, budou jediné zbraně, které lze vyrobit, ale v budoucích sezónách plánují zahrnout i starší zbraně z předchozích verzí."
+    }
+  ],
+  "lore": [
+    {
+      "h": "The Witch Queen"
+    },
+    {
+      "p": "Ponořte se do Savathûnova trůnního světa a odhalte záhadu, jak ona a její Lucent Hive ukradli Světlo. Naučte se tajemství potřebná k výrobě zcela nových zbraní, nového archetypu zbraní a přežijte pravdu v říši lží."
+    },
+    {
+      "h": "Přežijte pravdu"
+    },
+    {
+      "p": "Sister of Shapes, Sword-Breaker, Witch Queen – které z mých mnoha jmen máš na jazyku, když kolem mě splétáš svůj příběh? I když opatrně procházíte mým nádvořím, mezi těmi, kdo uctívají Světlo, které jsem obdarovala, odepřel bys mi ctnost této moci?"
+    },
+    {
+      "p": "Tvé odpovědi jsou výmluvné, Guardiane. Přemýšlejte o nich a ptejte se těch, kteří ti slibují čistotu tváří v tvář všemu, co zde vidíte. Poslouchej, jak jejich hlas kolísá. A až budeš zvedat svou novou ocel ze srdce své kovárny, zeptejte se sám sebe: \"Jaká síla tě ovládá?\""
+    },
+    {
+      "e": "Čekám na tebe, Guardiane. Vstup do mého světa trůnu a podívej se na pravdu."
+    }
+  ],
+  "activities": [
+    {
+      "type": "raid",
+      "hash": 1925223180,
+      "hashType": "Milestone"
+    },
+    {
+      "type": "wellspring",
+      "hash": 1607791277,
+      "hashType": "Milestone"
+    },
+    {
+      "type": "strike",
+      "hash": 1346366017,
+      "hashType": "Activity"
+    },
+    {
+      "type": "strike",
+      "hash": 4025464880,
+      "hashType": "Activity"
+    }
+  ]
+}
