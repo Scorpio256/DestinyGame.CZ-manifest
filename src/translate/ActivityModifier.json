@@ -153,7 +153,7 @@
       "final": true
     }
   },
-  "1572570117": {
+  "3135466059": {
     "displayProperties": {
       "name": "Wait for It...",
       "description": "Během prvního encounteru Wyverny zabijte, až začnou obětní animaci v confluxu.",
@@ -186,6 +186,20 @@
       "name": "Ensemble's Refrain",
       "description": "Během encounteru s Atheonem,Každý teleportovaný hráč smí zničit jen jeden ze tří spawnutých oraclů.",
       "final": true
+    }
+  },
+  "4023623132":  {
+    "displayProperties": {
+      "name": "Red Rover",
+      "description": "Během encounteru Security musí každý hráč ve spodním patře střelit dva panely.",
+      "final": false
+    }
+  },
+  "2255984700":  {
+    "displayProperties": {
+      "name": "Defenses Down",
+      "description": "Během třetího encounteru musí každý guardian zabít jednoho knighta co prodlužuje čas. Předávejte si relic.",
+      "final": false
     }
   }
 }
