@@ -19,5 +19,12 @@
       "description": "Zastavte Golmaga, Warden of the Spring před dokončením rituálu ve Wellspringu.",
       "final": false
     }
+  },
+  "2255984700":  {
+    "displayProperties": {
+      "name": "Defenses Down",
+      "description": "Během třetího encounteru musí každý guardian zabít jednoho knighta co prodlužuje čas. Předávejte si relic.",
+      "final": false
+    }
   }
 }
