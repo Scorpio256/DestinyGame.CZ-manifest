@@ -26,5 +26,19 @@
       "description": "Během třetího encounteru musí každý guardian zabít jednoho knighta co prodlužuje čas. Předávejte si relic.",
       "final": false
     }
+  },
+  "54269080":  {
+    "displayProperties": {
+      "name": "The Wellspring",
+      "description": "Zastavte Bor'gong, Warden of the Spring před dokončením rituálu ve Wellspringu.",
+      "final": false
+    }
+  },
+  "4023623132":  {
+    "displayProperties": {
+      "name": "Red Rover",
+      "description": "Během encounteru Security musí každý hráč ve spodním patře střelit dva panely.",
+      "final": false
+    }
   }
 }
