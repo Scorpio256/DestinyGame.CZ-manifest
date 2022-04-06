@@ -208,5 +208,19 @@
       "description": "Dvojnásobný počet Vaguard Rank bodů.",
       "final": false
     }
+  },
+  "1806568190": {
+    "displayProperties": {
+      "name": "Champion Foes",
+      "description": "Budete čelit [Shield-Piercing] Barrier a [Stagger] Unstoppable Championům.",
+      "final": false
+    }
+  },
+  "3119632620": {
+    "displayProperties": {
+      "name": "Shielded Foes",
+      "description": "Budete čelit [Arc] Arc a [Solar] Solar štítům",
+      "final": false
+    }
   }
 }
