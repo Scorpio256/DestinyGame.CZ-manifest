@@ -188,25 +188,25 @@
       "final": true
     }
   },
-  "4023623132":  {
+  "4023623132": {
     "displayProperties": {
       "name": "Red Rover",
       "description": "Během encounteru Security musí každý hráč ve spodním patře střelit dva panely.",
       "final": false
     }
   },
-  "2255984700":  {
+  "2255984700": {
     "displayProperties": {
       "name": "Defenses Down",
       "description": "Během třetího encounteru musí každý guardian zabít jednoho knighta co prodlužuje čas. Předávejte si relic.",
       "final": false
     }
   },
-  "745014575" : {
-  "displayProperties": {
-    "name": "Double Vanguard Rank",
-    "description": "Dvojnásobný počet Vaguard Rank bodů.",
-    "final": false
+  "745014575": {
+    "displayProperties": {
+      "name": "Double Vanguard Rank",
+      "description": "Dvojnásobný počet Vaguard Rank bodů.",
+      "final": false
+    }
   }
-},
 }
