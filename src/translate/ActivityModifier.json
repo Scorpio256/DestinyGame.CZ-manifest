@@ -201,5 +201,12 @@
       "description": "Během třetího encounteru musí každý guardian zabít jednoho knighta co prodlužuje čas. Předávejte si relic.",
       "final": false
     }
+  },
+  "745014575" : {
+  "displayProperties": {
+    "name": "Double Vanguard Rank",
+    "description": "Dvojnásobný počet Vaguard Rank bodů.",
+    "final": false
   }
+},
 }
